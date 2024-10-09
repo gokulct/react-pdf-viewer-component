@@ -40,3 +40,7 @@ const App = () => {
 export default App;
 ```
 Make sure that, You have set the height and width of the container properly.
+
+## External Packages Used
+- ** react-quick-pinch-zoom - https://github.com/retyui/react-quick-pinch-zoom.
+- ** pdfjs-dist - https://github.com/mozilla/pdfjs-dist
