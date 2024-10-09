@@ -11,6 +11,9 @@ A powerful and flexible PDF viewer component for your React.js projects. This co
 - **Pinch and Zoom**: Supports pinch-to-zoom functionality for touch devices.
 - **Mobile and PC Friendly**: Designed to work seamlessly on both mobile and desktop environments.
 
+## Screenshots
+![Screenshot 1](images/pdf-viewer.PNG)
+
 ## Installation
 
 You can install the component via npm by running the following command:
