@@ -19,15 +19,15 @@ A powerful and flexible PDF viewer component for your React.js projects. This co
 You can install the component via npm by running the following command:
 
 ```bash
-npm i pdf-viewer-reactjs-component
+npm i reactjs-pdf-viewer-component
 ```
 ## Usage
 
-To use the `react-js-pdfviewer-component` in your project, import it and include it in your component tree:
+To use the `reactjs-pdf-viewer-component` in your project, import it and include it in your component tree:
 
 ```javascript
 import React from 'react';
-import PDFViewer from 'pdf-viewer-reactjs-component/dist/components/PDFViewer';
+import PDFViewer from 'reactjs-pdf-viewer-component/dist/components/PDFViewer';
 
 const App = () => {
   return (
