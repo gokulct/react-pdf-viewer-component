@@ -27,7 +27,7 @@ To use the `react-js-pdfviewer-component` in your project, import it and include
 
 ```javascript
 import React from 'react';
-import PDFViewer from 'pdf-viewer-reactjs-component';
+import PDFViewer from 'pdf-viewer-reactjs-component/dist/components/PDFViewer';
 
 const App = () => {
   return (
