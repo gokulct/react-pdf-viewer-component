@@ -1,0 +1,19 @@
+.expanded,.not-expanded{
+    height: 100%;
+    width: 100%;
+}
+.pdf-viewer{
+    display: flex;
+    width: 100%;
+    height: calc(100% - 61px);
+}
+.print-loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.list-header{
+    font-weight: 600;
+    margin: 5px 0;
+}

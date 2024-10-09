@@ -1,0 +1,58 @@
+.not-expanded .viewer{
+    width: 100%;
+    transition: width .3s ease-in-out;
+    background-color: rgb(229 229 229);
+}
+.expanded .viewer{
+    height: 100%;
+    width: calc(100% - 201px);
+    transition: width .3s ease-in-out;
+    background-color: rgb(229 229 229);
+}
+.viewer{
+    height: 100%;
+    overflow: auto;
+}
+.viewer > :first-child > :first-child{
+    top: 70px;
+    right: 10px;
+}
+.actions-bar{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background-color: rgb(76 76 76 / 56%);
+    width: fit-content;
+    font-size: 25px;
+    color: #ffffff;
+    display: flex;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.actions-bar .las{
+    padding: 5px;
+    border-radius: 3px;
+    transition: transform,background-color .2s ease-in-out;
+}
+.actions-bar .las:active{
+    transform: scale(.8);
+    background-color: #ffffff63;
+}
+.iconButton{
+    background-image: none !important;
+    background-color: rgba(76, 76, 76, 0.442) !important;
+    color: white !important;
+    cursor: pointer;
+    border: none !important;
+    box-shadow: none !important;
+}
+.iconButton:hover{
+    background-color: rgba(109, 109, 109, 0.442) !important;
+}
+.viewer img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.kvfysmfp{
+    height: 100%;
+}
