@@ -47,3 +47,6 @@ This is still a work in progress, You may encounter bugs. Feel free to fork the 
 ## External Packages Used
 - ** react-quick-pinch-zoom - https://github.com/retyui/react-quick-pinch-zoom.
 - ** pdfjs-dist - https://github.com/mozilla/pdfjs-dist
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
