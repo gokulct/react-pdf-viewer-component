@@ -49,4 +49,4 @@ This is still a work in progress, You may encounter bugs. Feel free to fork the 
 - ** pdfjs-dist - https://github.com/mozilla/pdfjs-dist
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
